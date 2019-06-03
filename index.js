@@ -4,3 +4,6 @@ var c=a+b;
 console.log(c);
 // second Line
 Bismillahir Rahmanir Rahmanir
+funtion(){
+   console.log("I Did It");
+}
